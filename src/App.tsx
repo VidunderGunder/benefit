@@ -1,9 +1,9 @@
-import { HelloWorld } from "./components/HelloWorld";
+import { Quiz } from "./components/Quiz";
 
 export function App() {
 	return (
 		<div className="flex size-full items-center justify-center">
-			<HelloWorld />
+			<Quiz />
 		</div>
 	);
 }
